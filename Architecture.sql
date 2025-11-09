@@ -1,5 +1,5 @@
 Snowflake Architecture
-
+======================
 Snowflake is a cloud-based data warehousing platform that separates storage and compute to achieve high performance, scalability, and concurrency. Its architecture is multi-cluster, shared-data, designed specifically for the cloud.
 
 Snowflake architecture has three main layers:
